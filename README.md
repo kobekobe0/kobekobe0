@@ -27,7 +27,7 @@
  - ✔ CSS
  - ✔ Javascript
 
-### Not so fun fact 😄 ###
+### Not so fun fact ###
  **I started coding when I was 16 years old, but, pandemic hits and I have nothing else to do, so I dive straight into the world of web development. Now, I can confidently say that I'm far from where I started. Pandemic was kinda a boost for me.**
  
 #### My other hobbies ####
