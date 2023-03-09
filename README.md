@@ -9,8 +9,8 @@
 #### 💻 I'm curious to learn how machine learning algorithms work and their practical applications
 #### 📚 I'm currently a 2nd year college student taking BSIT
 #### 📫 Reach me at kobebrian.santos.e@gmail.com
-#### 🔗 LinkedIn: https://www.linkedin.com/in/kobesantos/
-#### 🔗 Portfolio: https://kobebriansantos.vercel.app
+#### 🔗 <a href="https://www.linkedin.com/in/kobesantos/" target="_blank">LinkedIn<a/>
+#### 🔗 <a href="https://kobebriansantos.vercel.app" target="_blank">Portfolio<a/>
 
 
 ### Technologies I can confidently work with  ###
