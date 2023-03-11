@@ -1,6 +1,6 @@
 # Hi, I'm Kobe 👋
 ##### A developer, yet to be known
- ***The thing I love most about coding is that there’s always something new to learn. Therea are so many ways to be creative and so many different problems to solve and I thrive on the challenge.***
+ ***The thing I love most about coding is that there’s always something new to learn. There are so many ways to be creative and so many different problems to solve and I thrive on the challenge.***
 
 *About me*
 
@@ -30,7 +30,7 @@
 
 ### Not so fun fact ###
  **I started coding when I was 16 years old, but, pandemic hits and I have nothing else to do, so I dive straight into the world of web development. Now, I can confidently say that I'm far from where I started. Pandemic was kinda a boost for me.**
-  ***Also shout-out to my mentors. Thank you!***
+  ***Also, shout-out to my mentors. Thank you!***
 #### My other hobbies ####
  - 📷 Photography
  - 🎒 Backpacking
