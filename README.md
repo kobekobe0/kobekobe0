@@ -20,6 +20,7 @@
  - ✔ Apollo GraphQL
  - ✔ MongoDB
  - ✔ ReactJs
+ - ✔ NextJs
  - ✔ Tailwind CSS
  - ✔ Bootstrap CSS
  - ✔ NodeJs
