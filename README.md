@@ -5,10 +5,10 @@
 *About me*
 
 #### 👀 I’m a full stack web developer.
-#### 🌱 I’m currently making a Hospital Scheduling system (Personal project)
-#### 🌱 I’m currently learning AngularJS
-#### 💻 I'm curious to learn how machine learning algorithms work and their practical applications
-#### 📚 I'm currently a 2nd year college student taking BSIT
+#### 🌱 Part-time Fullstack Web Dev @ Raksquad Tech Corp
+#### 🌱 Planning to learn microservices
+#### 💻 Curious to learn how machine learning algorithms work and their practical applications
+#### 📚 3rd year BSIT student @ Bulacan State University
 #### 📫 Reach me at kobebrian.santos.e@gmail.com
 #### 🔗 <a href="https://www.linkedin.com/in/kobesantos/" target="_blank">LinkedIn<a/>
 #### 🔗 <a href="https://kobebriansantos.vercel.app" target="_blank">Portfolio<a/>
@@ -25,9 +25,9 @@
  - ✔ Bootstrap CSS
  - ✔ NodeJs
  - ✔ ExpressJs
- - ✔ HTML
- - ✔ CSS
- - ✔ Javascript
+ - ✔ Socket.io
+ - ✔ PHP
+ - ✔ MySQL
 
 ### Not so fun fact ###
  **I started coding when I was 16 years old, but, pandemic hits and I have nothing else to do, so I dive straight into the world of web development. Now, I can confidently say that I'm far from where I started. Pandemic was kinda a boost for me.**
