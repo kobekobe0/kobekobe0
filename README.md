@@ -6,7 +6,7 @@
 
 #### 👀 I’m a full stack web developer.
 #### 🌱 Part-time Fullstack Web Dev @ Raksquad Tech Corp || Freelance Web Developer
-#### 🌱 Currently contracted to develop a Barangay Management System for a barangay in Pandi, Bulacan
+#### 🌱 Currently working as a freelance frontend developer at a team that has a US-based client.
 #### 💻 Curious to learn how machine learning algorithms work and their practical applications
 #### 📚 4th year BSIT student @ Bulacan State University
 #### 📫 Reach me at kobebrian.santos.e@gmail.com
