@@ -5,7 +5,7 @@
 *About me*
 
 #### 👀 I’m a full stack web developer.
-#### 🌱 Part-time Fullstack Web Dev @ Raksquad Tech Corp || Freelance Web Developer
+#### 🌱 Worked as a Part-time Fullstack Web Dev @ Raksquad Tech Corp & Iona Labs Innovations || Freelance Web Developer
 #### 🌱 Currently working as a freelance frontend developer at a team that has a US-based client.
 #### 🌱 Currently contracted to build a Entry Management System with Face Recognition.
 #### 💻 Curious to learn how machine learning algorithms work and their practical applications
